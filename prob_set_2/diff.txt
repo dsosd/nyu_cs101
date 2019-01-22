@@ -1,0 +1,11 @@
+Simplifications of simplified blackjack
+
+I Dealing cards is all at once per player rather than one card per player per dealing round.
+II Player cannot view one of the dealer's cards.
+III Player cannot split.
+IV Aces ONLY count as 11.
+V Blackjack does not beat 21. (2 card 21 vs. 3+ card 21)
+VI Corollary to V: Dealer does not stop play on blackjack.
+VII Dealer wins pushes.
+VIII Player cannot wager.
+IX Corollary to VIII: Player cannot double down, surrender, or take insurance.
